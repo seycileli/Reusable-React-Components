@@ -4,7 +4,7 @@ This is a mobile responsive Navbar using vanilla CSS, React Icons and React Rout
 
 install the following:
 
-React Router Dom
+<h3>React Router Dom</h3>
 
 `npm i react-router-dom`
 
