@@ -8,7 +8,7 @@ React Router Dom
 
 `npm i react-router-dom`
 
-Link --> <a href="https://www.npmjs.com/package/react-router-dom">here</a> to find out more
+Link --> <a href="https://www.npmjs.com/package/react-router-dom">here</a>
 
 React Icons
 
