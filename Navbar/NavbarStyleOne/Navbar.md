@@ -1,6 +1,7 @@
 # Navbar Read me
 
 This is a mobile responsive Navbar using vanilla CSS, React Icons and React Router Dom.
+<hr>
 
 install the following:
 
