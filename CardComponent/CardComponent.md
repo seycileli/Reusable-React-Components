@@ -1,2 +1,2 @@
 <h1>Card Components</h1>
-<h2>Reusable ReactJs Components</h2>
+<h3>Reusable ReactJs Components</h3>
