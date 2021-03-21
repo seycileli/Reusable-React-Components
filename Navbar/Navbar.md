@@ -2,4 +2,4 @@
 
 You can find different reusable Navbar Components within this folder.
 
-All Compo
+All Compon
