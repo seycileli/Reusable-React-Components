@@ -1,1 +1,2 @@
-Sections will contain Hero Section, About Section and Service Section. 
+Sections will contain Hero Section, About Section and Service Section. Very practical for landing pages.
+
